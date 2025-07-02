@@ -9,3 +9,7 @@
 - Clone the project
 - Install packages `npm install`
 - Run the project `npm start`
+
+### Architecture Idea
+
+![diagram](https://github.com/user-attachments/assets/f77e6ecd-1f5e-44c0-9e64-73911fe44b09)
