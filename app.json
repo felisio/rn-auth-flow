@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "rn-auth-flow",
+    "scheme": "rn-auth-flow",
     "slug": "rn-auth-flow",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": ["expo-router"]
   }
 }
